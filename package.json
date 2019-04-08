@@ -1,0 +1,25 @@
+{
+  "name": "EX2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoseCruz9807/EX2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoseCruz9807/EX2/issues"
+  },
+  "homepage": "https://github.com/JoseCruz9807/EX2#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "path": "^0.12.7",
+    "request": "^2.88.0"
+  }
+}
